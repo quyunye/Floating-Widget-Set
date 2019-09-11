@@ -1,0 +1,25 @@
+<!--Copyright (c) 2015 GYqyy All rights reserved. url: http://www.gyqyy.com/ -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+<title>Sample Page
+</title>
+<link rel="stylesheet" href="./css/Floating_Prompt_Box.css">
+<script src="./js/Floating_Prompt_Box.js"></script>
+</head>
+<body onload="show('light')" bgcolor="#f5f5f5">
+Sample Page
+<br>
+Click the "Show" button or the "Show" hyperlinks to display the prompt box.
+<br>
+Hide the prompt box by clicking the "Close" button in the prompt box.
+<br><br>
+<input type="button" onclick="show('light')" value="show" style="height:60px;width:110px;"/>
+<br>
+<a href="javascript:void(0)" onclick="show('light')">Show</a>
+<br><a href="https://www.gyqyy.com/" target="_blank">External Url</a>
+<div id="light" class="white_content">
+      <div class="con"> <center><h1><p style="line-height:48px;">Floating-Prompt-Box</p><center><p>Hide the prompt box by clicking the Close button</p>&nbsp;<a href="javascript:void(0)" class="button green" onclick="hide('light')"><font color="#FFFFFF">Close</font></a></center></h1></center></div>
+</div>
+<div id="fade" class="black_overlay"></div>
+</body>
