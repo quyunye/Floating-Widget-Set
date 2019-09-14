@@ -1,6 +1,7 @@
 /*
 * Copyright (c) 2015 GYqyy All rights reserved.
 * Url：http://www.gyqyy.com/
+* Url: http://www.vbvbv.com/
 */
 function show(tag){
  var light=document.getElementById(tag);
