@@ -1,6 +1,6 @@
 /*
-* Copyright (c) 2019.02.27 GYqyy All rights reserved.
-* Url：http://www.gyqyy.com/
+* Copyright (c) 2019.02.27 vbvbv.com All rights reserved.
+* Url：http://www.svip.tech/
 * Url: http://www.vbvbv.com/
 */
 
